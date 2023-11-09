@@ -11,7 +11,7 @@ import genericlibraies.BaseClass;
 import genericlibraies.IconstantPath;
 
 public class CreateCourseTest extends BaseClass {
-      
+   //This Code Runs Successfully   
 	@Test
      public void createCourseTest() throws InterruptedException {
 	 SoftAssert soft = new SoftAssert();
