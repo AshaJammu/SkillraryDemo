@@ -12,7 +12,7 @@ import genericlibraies.BaseClass;
 import genericlibraies.IconstantPath;
 
 public class CreateCategoryTest extends BaseClass {
-   
+   //This Code Runs Successfully 
 	@Test
 	public void createCategoryTest() throws InterruptedException  {
 		SoftAssert soft = new SoftAssert();
